@@ -1,3 +1,4 @@
-# Welcome to my blog
+#### japandavid
 
-I'm glad you are here. I plan to talk about ...
+Interests 
+C++
